@@ -28,8 +28,8 @@ body, input[text], button {
 
 #page-wrap {
    /*text-align: center;*/
-   width: 80%;
-   /*width: 1200px;*/
+   /*width: 90%;*/
+   width: 1000px;
    margin: 0 auto;
 }
 
