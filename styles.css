@@ -17,11 +17,8 @@ h3 {
   font-weight: lighter;
 }
 
-body { 
-  margin: 2em; 
-}
-
-body, input[text], button { 
-  color: #888; 
-  font-family: Cambria, Georgia; 
+@media screen and (max-width: 700px) {
+  .wide-only{
+    display:none; 
+  }
 }
